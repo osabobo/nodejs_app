@@ -20,12 +20,12 @@ To run this application, you need to have the following:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/market-analysis-chatbot.git
+   git clone https://github.com/yourusername/nodejs_app.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd market-analysis-chatbot
+   cd nodejs_app
    ```
 
 3. Install the required dependencies:
